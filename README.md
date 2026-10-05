@@ -2,6 +2,15 @@
 > A full-stack, enterprise-grade educational platform built with **Python 3.11+**, **FastAPI**, **MySQL 8.0+**, **parameterized RAW SQL**, and **React 18 (Vite)**.
 > **Zero ORM Overhead**: Designed specifically to showcase relational database design, ANSI SQL joins, ACID transactions, B-Tree indexing, and role-based access control.
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://frontend-silk-nine-57.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Pamshavali%2Fstudent--LMS-blue?logo=github)](https://github.com/Pamshavali/student-LMS)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MySQL 8.0+](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![React 18](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+
+🚀 **Live Production App**: [https://frontend-silk-nine-57.vercel.app](https://frontend-silk-nine-57.vercel.app)
+
 ---
 
 ## 1. Project Overview
